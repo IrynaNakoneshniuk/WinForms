@@ -1,0 +1,17 @@
+C:\Users\ZbooK\source\repos\ComboBox_Tsk2\obj\Debug\net6.0-windows\ComboBox_Tsk2.csproj.AssemblyReference.cache
+C:\Users\ZbooK\source\repos\ComboBox_Tsk2\obj\Debug\net6.0-windows\ComboBox_Tsk2.Form1.resources
+C:\Users\ZbooK\source\repos\ComboBox_Tsk2\obj\Debug\net6.0-windows\ComboBox_Tsk2.csproj.GenerateResource.cache
+C:\Users\ZbooK\source\repos\ComboBox_Tsk2\obj\Debug\net6.0-windows\ComboBox_Tsk2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZbooK\source\repos\ComboBox_Tsk2\obj\Debug\net6.0-windows\ComboBox_Tsk2.AssemblyInfoInputs.cache
+C:\Users\ZbooK\source\repos\ComboBox_Tsk2\obj\Debug\net6.0-windows\ComboBox_Tsk2.AssemblyInfo.cs
+C:\Users\ZbooK\source\repos\ComboBox_Tsk2\obj\Debug\net6.0-windows\ComboBox_Tsk2.csproj.CoreCompileInputs.cache
+C:\Users\ZbooK\source\repos\ComboBox_Tsk2\bin\Debug\net6.0-windows\ComboBox_Tsk2.exe
+C:\Users\ZbooK\source\repos\ComboBox_Tsk2\bin\Debug\net6.0-windows\ComboBox_Tsk2.deps.json
+C:\Users\ZbooK\source\repos\ComboBox_Tsk2\bin\Debug\net6.0-windows\ComboBox_Tsk2.runtimeconfig.json
+C:\Users\ZbooK\source\repos\ComboBox_Tsk2\bin\Debug\net6.0-windows\ComboBox_Tsk2.dll
+C:\Users\ZbooK\source\repos\ComboBox_Tsk2\bin\Debug\net6.0-windows\ComboBox_Tsk2.pdb
+C:\Users\ZbooK\source\repos\ComboBox_Tsk2\obj\Debug\net6.0-windows\ComboBox_Tsk2.dll
+C:\Users\ZbooK\source\repos\ComboBox_Tsk2\obj\Debug\net6.0-windows\refint\ComboBox_Tsk2.dll
+C:\Users\ZbooK\source\repos\ComboBox_Tsk2\obj\Debug\net6.0-windows\ComboBox_Tsk2.pdb
+C:\Users\ZbooK\source\repos\ComboBox_Tsk2\obj\Debug\net6.0-windows\ComboBox_Tsk2.genruntimeconfig.cache
+C:\Users\ZbooK\source\repos\ComboBox_Tsk2\obj\Debug\net6.0-windows\ref\ComboBox_Tsk2.dll
